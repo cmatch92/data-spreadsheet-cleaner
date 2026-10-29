@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+customers.csv
+cleaned_output/
+*.xls
+*.xlsx
+*.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
